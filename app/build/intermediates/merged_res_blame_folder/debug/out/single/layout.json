@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_crear_cuenta.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_crear_cuenta.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\info_bottom_sheet.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_camera.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_editar_datos.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_editar_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_camara.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_camara.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_restablecer_password.xml",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_restablecer_password.xml"
+    }
+]

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    tools:context=".CrearCuenta">
+
+
+    <ImageButton
+        android:id="@+id/crearCuenta_btnCerrar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="4dp"
+        android:backgroundTint="#00FFFFFF"
+        android:contentDescription="@string/boton_cerrar"
+              app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.985"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/btncerrar" />
+
+
+    <ImageView
+        android:id="@+id/crearcuenta_logo"
+        android:layout_width="153dp"
+        android:layout_height="153dp"
+        android:contentDescription="TODO"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearCuenta_btnCerrar"
+        app:srcCompat="@drawable/logo_2" />
+
+    <TextView
+        android:id="@+id/crearcuenta_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.2"
+        android:text="@string/crear_cuenta"
+        android:textColor="@color/Azul_Titulos"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.539"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_logo" />
+
+    <EditText
+        android:id="@+id/crearcuenta_nombre"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="60dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/nombre"
+        android:inputType="textPersonName"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_titulo" />
+
+    <EditText
+        android:id="@+id/crearcuenta_apellidos"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/apellidos"
+        android:inputType="textPersonName"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_nombre" />
+
+    <EditText
+        android:id="@+id/crearcuenta_email"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_apellidos" />
+
+    <EditText
+        android:id="@+id/crearcuenta_password"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/Password"
+        android:inputType="textPassword"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_email" />
+
+    <Button
+        android:id="@+id/crearcuenta_btnCrearCuenta"
+        android:layout_width="264dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/botones_fondo2"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.3"
+        android:text="@string/crear_cuenta"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_password"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <TextView
+        android:id="@+id/crearcuenta_tituloApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.4"
+        android:text="@string/app_name"
+        android:textColor="@color/Azul_Titulos"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_btnCrearCuenta"
+        app:layout_constraintVertical_bias="0.94" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

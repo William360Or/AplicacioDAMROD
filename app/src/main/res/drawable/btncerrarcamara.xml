@@ -1,0 +1,7 @@
+<vector android:autoMirrored="true" android:height="110dp"
+    android:viewportHeight="300" android:viewportWidth="300"
+    android:width="110dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ef205e" android:name="Elipse 1" android:pathData="m150 2.46c81.48 0 147.54 66.05 147.54 147.54c0 81.48 -66.05 147.54 -147.54 147.54c-81.48 0 -147.54 -66.05 -147.54 -147.54c0 -81.48 66.05 -147.54 147.54 -147.54z"/>
+    <path android:fillColor="#fff" android:name="Rectángulo 1" android:pathData="m52.56 215.88 178.03 -151.53 16.84 19.78 -178.03 151.53 -16.84 -19.78z"/>
+    <path android:fillColor="#fff" android:name="Rectángulo 1" android:pathData="m79.25 56.05 160.4 170.08 -18.9 17.82 -160.4 -170.08 18.9 -17.82z"/>
+</vector>

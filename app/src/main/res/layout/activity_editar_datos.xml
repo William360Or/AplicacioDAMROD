@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo2"
+    tools:context=".EditarDatos">
+
+    <EditText
+        android:id="@+id/editarDatos_nombre"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="48dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/nombre"
+        android:inputType="textPersonName"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editardatos_titulo" />
+
+    <EditText
+        android:id="@+id/editarDatos_apellido"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="20dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/apellidos"
+        android:inputType="textPersonName"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_nombre" />
+
+    <EditText
+        android:id="@+id/editarDatos_email"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.505"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_apellido" />
+
+    <EditText
+        android:id="@+id/editarDatos_password"
+        android:layout_width="409dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="24dp"
+        android:autofillHints=""
+        android:background="@drawable/bordes_redondos"
+        android:fontFamily="@font/hauora_bold"
+        android:hint="@string/Password"
+        android:inputType="textPassword"
+        android:textColor="@color/azul_textos"
+        android:textCursorDrawable="@drawable/cursor_fondo2"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_email" />
+
+    <ImageButton
+        android:id="@+id/editarDatos_btnCerrar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@color/fondo_Img_Botones"
+        android:contentDescription="@string/boton_cerrar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.953"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/btncerrar"
+        tools:ignore="OnClick" />
+
+    <ImageView
+        android:id="@+id/crearcuenta_logo"
+        android:layout_width="153dp"
+        android:layout_height="153dp"
+        android:layout_marginTop="36dp"
+        android:contentDescription="TODO"
+        app:layout_constraintEnd_toStartOf="@+id/editarDatos_btnCerrar"
+        app:layout_constraintHorizontal_bias="0.676"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/logo_2" />
+
+    <TextView
+        android:id="@+id/editardatos_titulo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.2"
+        android:text="@string/Editar_Datos"
+        android:textColor="@color/Azul_Titulos"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/crearcuenta_logo" />
+
+    <Button
+        android:id="@+id/editarDatos_btnGuardar"
+        android:layout_width="264dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/botones_fondo2"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.3"
+        android:text="@string/Guardar"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_password"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <Button
+        android:id="@+id/editarDatos_btnEliminar"
+        android:layout_width="350dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="112dp"
+        android:background="@drawable/boton_eliminar"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.3"
+        android:text="@string/Eliminar_cuenta"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_btnGuardar"
+        tools:ignore="DuplicateSpeakableTextCheck" />
+
+    <TextView
+        android:id="@+id/crearcuenta_tituloApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="50dp"
+        android:fontFamily="@font/hauora_bold"
+        android:letterSpacing="0.4"
+        android:text="@string/app_name"
+        android:textColor="@color/Azul_Titulos"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/editarDatos_btnEliminar"
+        app:layout_constraintVertical_bias="1.0" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

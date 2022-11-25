@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Home"
+    android:background="@drawable/fondo1">
+
+    <ImageView
+        android:id="@+id/home_logo"
+        android:layout_width="153dp"
+        android:layout_height="153dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/logo_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_tituloApp" />
+    <TextView
+        android:id="@+id/home_tituloApp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="76dp"
+        android:fontFamily="@font/hauora_semibold"
+        android:letterSpacing="0.4"
+        android:text="@string/app_name"
+        android:textColor="@color/white"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.502"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <ImageButton
+        android:id="@+id/home_btnCerrar"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:backgroundTint="@color/fondo_Img_Botones"
+        android:contentDescription="@string/boton_cerrar"
+        app:layout_constraintBottom_toTopOf="@+id/home_tituloApp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.985"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/btncerrar"
+        tools:ignore="OnClick" />
+
+    <ImageButton
+        android:id="@+id/home_abrir_camara"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="52dp"
+        android:backgroundTint="@color/fondo_Img_Botones"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_logo"
+        app:srcCompat="@drawable/btncamara" />
+
+    <ImageButton
+        android:id="@+id/home_configuracion"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/fondo_Img_Botones"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.918"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/home_abrir_camara"
+        app:layout_constraintVertical_bias="0.916"
+        app:srcCompat="@drawable/btn_conf" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

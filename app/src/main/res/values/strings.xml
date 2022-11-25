@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DAMROD</string>
+
+    <string name="alt_bottom_sheet_chevron">Bottom sheet expandable indicator</string>
+
+    <string name="alt_bottom_sheet_max_results_button_minus">Decreasing maxium detected results
+        button</string>
+    <string name="alt_bottom_sheet_max_results_button_plus">Increasing maxium detected results
+        button</string>
+    <string name="alt_bottom_sheet_threshold_button_minus">Decreasing threshold of detected object
+        results button</string>
+    <string name="alt_bottom_sheet_threshold_button_plus">Increasing threshold of detected object
+        results button</string>
+    <string name="alt_bottom_sheet_thread_button_minus">Decrease the number of threads used</string>
+    <string name="alt_bottom_sheet_thread_button_plus">Increase the number of threads used</string>
+
+    <string name="label_interence_time">Inference Time</string>
+    <string name="label_fps">Frames per Second</string>
+    <string name="label_confidence_threshold">Threshold</string>
+    <string name="label_max_results">Max Results</string>
+    <string name="label_threads">Number of Threads</string>
+    <string name="label_delegate">Delegate</string>
+    <string name="label_models">ML Model</string>
+
+    <string-array name="delegate_spinner_titles">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+
+    <string-array name="models_spinner_titles">
+        <item>MobileNet V1</item>
+        <item>EfficientDet Lite0</item>
+        <item>EfficientDet Lite1</item>
+        <item>EfficientDet Lite2</item>
+    </string-array>
+     TODO: Remove or change this placeholder text
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--  Mis textos personalizados  -->
+
+    <string name="olvido_contraseña">¿ Olvidaste tu contraseña?</string>
+    <string name="email">E-mail</string>
+    <string name="Password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="boton_cerrar">Cerrar app</string>
+    <string name="crear_cuenta">CREAR CUENTA</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="Restablecer_Password">RESTABLECER CONTRASEÑA</string>
+    <string name="nuevo_password">Nuevo Password</string>
+    <string name="confirmar_password">Confirmar Password</string>
+    <string name="restablecer">RESTABLECER</string>
+    <string name="Editar_Datos">EDITAR DATOS</string>
+    <string name="Guardar">GUARDAR</string>
+    <string name="Eliminar_cuenta">ELIMINAR CUENTA</string>
+
+
+    <!-- textos alerta de dialogos -->
+    <string name="Espacios_en_blanco">Ingrese un Usuario o Contraseña validos</string>
+    <string name="datos_Invalidos">Datos Invalidos o hay elementos en blanco</string>
+    <string name="tituloDatosactualizados">Datos Actualizados</string>
+    <string name="Aceptar">ACEPTAR</string>
+    <string name="Cancelar">CANCELAR</string>
+    <string name="Confirmar">CONFIRMAR</string>
+    <string name="mensajeDatosActualizados">Se han actualizado los datos correctamente!!</string>
+    <string name="Mensaje_Eliminar_cuenta">¡Si desea eliminar la cuenta presione Confirmar!</string>
+    <string name="Titulo_restablecer_contraseña">Retablecer Contraseña</string>
+    <string name="mensaje_restablecer_contraseña">¡La contraseña se ha restablecido correctamete</string>
+    <string name="Titulo_No_coinciden_contraseñas">Contraseñas</string>
+    <string name="mensaje_No_coinciden_contraseñas">Las contraseñas no coinciden. </string>
+    <string name="titulo_cambio_contraseña">Cambio de contraseña </string>
+    <string name="cambio_contraseña">¡La contraeña se ha restablecido correctamente!. </string>
+    <string name="correo_invalido">Email Incorrecto </string>
+    <string name="mensaje_correo_invalido">El Email ingresado no existe</string>
+    <string name="verificar_datos">Verifique los datos e intente nuevamente</string>
+    <string name="titulo_cuentaCreda">Cuenta Creada</string>
+    <string name="mensaje_cuentaCreada">¡Se ha creado la cuenta correctamente!</string>
+
+
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+       <color name="bounding_box_color">#00FF2A</color>
+    <color name="toolbar_background">#EEEEEE</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="bottom_sheet_background">#EEEEEE</color>
+    <color name="bottom_sheet_text_color">@android:color/black</color>
+    <color name="icActive">#FFFFFFFF</color>
+    <color name="icFocused">#DDFFFFFF</color>
+    <color name="icPressed">#AAFFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="btncerrar">#EF205E</color>
+    <color name="btncrearCuenta">#19E7D9</color>
+    <color name="azul_fondo">#001C61</color>
+    <color name="verde_fondo2">#19E7D9</color>
+    <color name="Azul_Titulos">#001C61</color>
+    <color name="azul_textos">#001C61</color>
+    <color name="fondo_Img_Botones">#00FFFFFF</color>
+    <color name="fondo_caja_textos_f2">#a3f5f0</color>
+    <color name="borde_caja_textos_f2">#a3f5f0</color>
+    <color name="fondo_caja_textos_f1">#2b427c</color>
+    <color name="borde_caja_textos_f1">#2b427c</color>
+    <color name="rojo">#EF205E</color>
+
+
+    <color name="uno">#FFBB86FC</color>
+    <color name="dos">#FF6200EE</color>
+    <color name="tres">#FF3700B3</color>
+    <color name="cuatro">#FF03DAC5</color>
+    <color name="cinco">#FF018786</color>
+    <color name="seis">#FF000000</color>
+    <color name="siete">#FFFFFFFF</color>
+    <color name="ocho">#EF205E</color>
+
+</resources>

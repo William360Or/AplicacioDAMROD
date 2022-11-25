@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_boton_login.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\boton_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_editar_datos.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_editar_datos.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\font_hauora_regular.ttf.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\font\\hauora_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\font_hauora_bold.ttf.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\font\\hauora_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\font_fuentes.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\font\\fuentes.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_boton_eliminar.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\boton_eliminar.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncerrar.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\btncerrar.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_fondo2.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\fondo2.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\color_selector_ic.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\color\\selector_ic.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncrearcuenta.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\btncrearcuenta.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\font_hauora_semibold.ttf.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\font\\hauora_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_cursor_fondo2.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\cursor_fondo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_2.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncerrarcamara.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\btncerrarcamara.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_btn_conf.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\btn_conf.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_fondo1.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\fondo1.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_camara.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_camara.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_btncamara.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\btncamara.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_crear_cuenta.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_crear_cuenta.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_botones_fondo2.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\botones_fondo2.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo_1.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\logo_1.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bordes_redondos.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\bordes_redondos.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\drawable_bordes_redondos_fondo1.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\drawable\\bordes_redondos_fondo1.xml"
+    },
+    {
+        "merged": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_restablecer_password.xml.flat",
+        "source": "C:\\Users\\William\\Documents\\ReconocimientoImagenes\\Aplicacion Movil\\android_tensorflowlite\\app\\src\\main\\res\\layout\\activity_restablecer_password.xml"
+    }
+]
